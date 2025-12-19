@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+
+html {
+  scroll-behavior: smooth;
+}
 /* Regra para impedir que links visitados fiquem roxos */
 @layer base {
   a, a:visited, a:hover, a:active {
