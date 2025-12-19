@@ -4,8 +4,8 @@ Este repositório contém o website institucional desenvolvido para o **Eng. Mat
 
 O projeto é uma **Landing Page** de alta performance, projetada para transmitir solidez técnica e inovação. O site destaca a utilização de metodologias avançadas como **BIM** e automação em projetos de engenharia civil.
 
-![Preview do Site](./src/assets/hero-bg.jpg)
-*(Sugestão: Adicione um print real da tela inicial aqui)*
+<img width="1903" height="922" alt="image" src="https://github.com/user-attachments/assets/91de74df-5131-46d8-999d-ea1ab792c302" />
+
 
 ## 🚀 Tecnologias Utilizadas
 
