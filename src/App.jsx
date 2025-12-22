@@ -358,7 +358,7 @@ function App() {
           <div className="border-t border-white/5 pt-8 flex flex-col md:flex-row justify-between items-center text-xs text-gray-600">
             <p>&copy; {new Date().getFullYear()} Eng. Matheus Ribeiro. CREA-MG.</p>
             <p className="mt-2 md:mt-0 flex items-center gap-1">
-              Desenvolvido por <a href="https://dev-yankous.vercel.app/" target="_blank" className="text-gray-500 hover:text-white transition font-medium">Raphael Yankous</a>
+              Desenvolvido por <a href="https://www.yankousdevweb.com.br/" target="_blank" className="text-gray-500 hover:text-white transition font-medium">Raphael Yankous</a>
             </p>
           </div>
         </div>
