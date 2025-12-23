@@ -318,7 +318,7 @@ function App() {
             <div className="col-span-1 md:col-span-2">
               <span className="font-bold text-2xl text-white tracking-tighter block mb-4">ENG. MATHEUS RIBEIRO</span>
               <p className="text-gray-400 max-w-sm leading-relaxed text-sm mb-6">
-                Especialista em drenagem e infraestrutura. Transformando dados técnicos em obras seguras e eficientes.
+                Especialista em infraestrutura. Transformando dados técnicos em obras seguras e eficientes.
               </p>
               <div className="flex gap-4">
                 <a href={socialLinks.linkedin} target="_blank" className="w-10 h-10 rounded bg-zinc-900 flex items-center justify-center hover:bg-[#0077b5] hover:text-white transition text-gray-400 hover:-translate-y-1">
