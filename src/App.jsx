@@ -159,7 +159,7 @@ function App() {
             className="inline-block border border-white/10 bg-white/5 px-4 py-1.5 rounded-full text-xs font-bold tracking-widest text-blue-400 mb-8 backdrop-blur-sm uppercase"
             data-aos="fade-down"
           >
-            Especialista em Drenagem e Infraestrutura
+            Especialista em Infraestrutura
           </div>
           <h1 
             className="text-4xl md:text-7xl font-bold text-white mb-6 leading-tight tracking-tight"
